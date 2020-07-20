@@ -2,7 +2,8 @@
 A Instagram feed clone with NodeJs, ReactJs and React Native
 
 <br />
-![image app] (/Clone-Instagram.gif)
+
+![Alt text](/Clone-Instagram.gif?raw=true "Title")
 
 <br />
 
